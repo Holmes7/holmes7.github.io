@@ -1,0 +1,30 @@
+---
+const projects = [
+    {
+        "name": "Random Mashup Generator",
+        "url": "https://github.com/Holmes7/Random-Mashup-Generator",
+        "description": "A web application developed with TypeScript and ReactJS, designed to automate the process of selecting random coding problems of a specific difficulty level that remain unsolved by a group of users.",
+        "tags": ["typescript", "reactjs", "competitive-programming"]
+    },
+    {
+        "name": "CF-Static-Site-Enhancer",
+        "url": "https://github.com/Holmes7/CF-Static-Site-Enhancer",
+        "description": "CF Static Site Enhancer is a browser extension that augments your Codeforces contest experience on it's static sites. Track friends' standings, copy input data effortlessly, predict rating changes, and monitor problem submission counts.",
+        "tags": ["chrome-extension", "javascript", "competitive-programming"]
+    },
+    {
+        "name": "This Website!",
+        "url": "/",
+        "description": "My personal website built with Astro and TailwindCSS",
+        "tags": ["astro", "tailwind"]
+    }
+]
+// bg-gradient-to-bl from-gray-900 to-gray-600
+---
+<section class="grid lg:grid-cols-3 gap-4">
+    {projects.map((project) => 
+    <div class="bg-gradient-to-bl from-gray-900 to-gray-600 rounded-xl px-6 py-5 text-center border border-slate-400 hover:opacity-50 hover:-translate-y-2 transition">
+        <a href={project.url}><h2 class="text-gray-300 mb-8 border-b pb-2">{project.name}</h2></a>
+        <p class="text-sm">{project.description}</p>
+    </div>)}
+</section>

@@ -1,0 +1,25 @@
+---
+import PostPreview from "./PostPreview.astro";
+const allPosts = await Astro.glob('../pages/posts/*.md')
+const filteredPosts = allPosts.filter((post) => {
+    if (import.meta.env.PROD && post.frontmatter.published != null && post.frontmatter.published==false){
+        return false
+    }
+    return true
+})
+//@ts-ignore
+const sortedPosts = filteredPosts.sort((a, b) => (new Date(b.frontmatter.date) - new Date(a.frontmatter.date)))
+---
+<ul class="grid lg:grid-cols-2 gap-x-16">
+    {sortedPosts.map((post) => 
+    <li class="py-1">
+        <details>
+            <summary class="marker:text-xl marker:text-orange-400 before:mr-3 hover:cursor-pointer">
+                <a href={post.url} class="text-base underline underline-offset-4 decoration-1 hover:decoration-cyan-300 hover:decoration-2">{post.frontmatter.title}</a>
+            </summary>
+            <div class="text-sm text-slate-400 pl-7 pt-3">
+                {post.frontmatter.description}
+            </div>
+        </details>
+    </li>)}
+</ul>

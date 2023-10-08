@@ -1,0 +1,25 @@
+---
+const navLinks = [
+    {
+        text: "Home",
+        link: "/"
+    },
+    {
+        text: "Blog",
+        link: "/blog"
+    },
+    {
+        text: "Projects",
+        link: "/#projects"
+    },
+    {
+        text: "Contact",
+        link: "/#contact"
+    }
+]
+---
+<header class="my-7 text-lg font-bold">
+    <nav class="flex justify-center gap-8">
+        { navLinks.map((obj) => <a class="decoration-sky-300 decoration-2 underline-offset-8 hover:underline" href={obj.link}>{obj.text}</a>)}
+    </nav>
+</header>

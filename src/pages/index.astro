@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import HomeBlog from "../components/HomeBlog.astro";
+import CP from "../components/CP.astro";
+import ProjectList from "../components/ProjectList.astro";
+import HomeProjects from "../components/HomeProjects.astro";
+---
+<BaseLayout>
+<section class="text-lg flex flex-col gap-16">
+    <Hero />
+    <HomeBlog />
+    <HomeProjects />
+    <CP />
+</section>
+</BaseLayout>

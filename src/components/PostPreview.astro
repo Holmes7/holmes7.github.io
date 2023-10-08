@@ -1,0 +1,23 @@
+---
+
+const { postHTMLContent, limit } = Astro.props;
+
+function removeHTMLTags(input: string) {
+  return input.replace(/<\/?[^>]+(>|$)/g, "");
+}
+
+function getFirstNWords(content: string, limit: string) {
+  const n = parseInt(limit)
+  const words = content.split(' ');
+  if (words.length <= n) {
+    return content;
+  } else {
+    return words.slice(0, n).join(' ') + '...';
+  }
+}
+
+---
+
+<div class="text-base text-slate-400 pl-7 pt-3">
+    {getFirstNWords(removeHTMLTags(postHTMLContent), limit)}
+</div>

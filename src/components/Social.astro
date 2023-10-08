@@ -1,0 +1,27 @@
+---
+const socialLinks = [
+    {
+        text: "linkedin",
+        icon: "fa-brands fa-linkedin",
+        link: "/https://www.linkedin.com/in/ashutosh-patkar/"
+    },
+    {
+        text: "github",
+        icon: "fa-brands fa-github",
+        link: "https://github.com/Holmes7"
+    },
+    {
+        text: "email",
+        icon: "fa-solid fa-envelope",
+        link: "mailto:ashutoshpatkar71@gmail.com"
+    },
+    {
+        text: "instagram",
+        icon: "fa-brands fa-instagram",
+        link: "https://www.instagram.com/_holmes7_/"
+    }
+]
+---
+<section>
+    <p class="flex gap-8">{ socialLinks.map((obj) => <a href={obj.link} class="text-2xl hover:text-sky-300"><i class={`decoration-sky-300 decoration-2 underline-offset-8 hover:underline ${obj.icon}`}></i></a> )}</p>
+</section>

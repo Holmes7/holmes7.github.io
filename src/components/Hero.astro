@@ -1,0 +1,9 @@
+---
+import { Image } from "astro:assets";
+import myImg from "../assets/iaml.gif"
+import Intro from "./Intro.astro"
+---
+<section class="flex flex-col lg:flex-row justify-between items-center gap-20">
+    <Intro class=""/>
+    <Image src={myImg} alt="The beginning" class="rounded-2xl max-w-md w-full"/>
+</section>
