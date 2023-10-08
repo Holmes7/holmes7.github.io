@@ -2,10 +2,10 @@
 layout: ../../layouts/PostLayout.astro
 title: "Demystifying Unix Pipes"
 date: 2023-09-23
-description: A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual `aws s3 cp -` command with the unix tool head. I received the results within seconds, but the underlying process was not intuitive for me. Trying to uncover this magic ...
+description: A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I received the results within seconds, but the underlying process was not intuitive to me. Trying to uncover this magic ...
 ---
 
-A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual `aws s3 cp -` command with the unix tool head. I got the results in mere seconds but what exactly happened at the lower level wasn't intuitive to me. Trying to uncover this magic, my research led me to a variety of topics and this blog aims to explore those discoveries.
+A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I got the results in mere seconds but what exactly happened at the lower level wasn't intuitive to me. Trying to uncover this magic, my research led me to a variety of topics and this blog aims to explore those discoveries.
 
 ## What's the magic?
 
@@ -15,7 +15,7 @@ aws s3 cp <gizzped-file-location-on-s3-bucket> - | gunzip | head
 
 ```
 
-It's quite intuitive to understand what the output will be here-the first five lines of the unzipped file. But how is it all actually processed? Clearly the entire file isn't downloaded as the command executed in seconds. But how does the aws command know to copy only the first five lines? Is the head command communicating something special to it? Let's explore.
+It's quite intuitive to understand what the output will be here-the first five lines of the unzipped file. But how is it all actually processed? Clearly the entire file isn't downloaded as the command executed in seconds. But how does the aws command know to copy only the first five lines? Is the head command communicating something special to it?
 
 ## Unix philosophy
 
@@ -24,7 +24,7 @@ Just then I recalled reading about the Unix philisophy.
 > Expect the output of every program to become the input to another, as yet
 unknown, program.
 
-Doesn't this mean that `aws` has no idea about `head`, since both of them are different, individual programs. So that only leaves the `|` operator which could be responsible for the communication. So I tried to understand it's internals.
+Doesn't this mean that `aws` has no idea about `head`, since both of them are different, individual programs. So that only leaves the `|` (Pipe) operator which could be responsible for the communication. So I tried to understand it's internals.
 
 ## Understanding Unix Pipes
 
@@ -38,7 +38,7 @@ At this point, I thought that initially aws copies all content from remote file 
 
 ## Pipe capacity
 
-Scrolling down in the docs I found out that a pipe has limited capacity. That means the entire file can't even fit into the pipe at once. And this is where the magic happens. 
+Scrolling down the docs I found out that a pipe has limited capacity. That means the entire file can't even fit into the pipe at once. And this is where the magic happens. 
 
 > If a process attempts to read from an empty pipe, then read will block until data is available.  If a process attempts to write to a full pipe then write blocks until sufficient data has been read from the pipe to allow the write to complete.
 
