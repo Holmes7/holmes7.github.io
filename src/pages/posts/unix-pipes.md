@@ -5,7 +5,9 @@ date: 2023-09-23
 description: A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I received the results within seconds, but the underlying process was not intuitive to me. Trying to uncover this magic ...
 ---
 
-A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I got the results in mere seconds but what exactly happened at the lower level wasn't intuitive to me. Trying to uncover this magic, my research led me to a variety of topics and this blog aims to explore those discoveries.
+A few days ago, I wanted to preview the first few lines of a massive 1.1 GB file stored on an S3 bucket. Downloading it would have taken a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I expected it to still take a lot of time but surprisingly I got the results in a few seconds.
+
+How did the aws command know when to stop downloading? I couldn't figure it out and it seemed like magic to me. Trying to uncover this "magic", my research led me to a variety of low-level concepts  and this blog aims to explore those discoveries.
 
 ## What's the magic?
 
