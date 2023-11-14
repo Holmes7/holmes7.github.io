@@ -8,7 +8,7 @@ const date = new Date(frontmatter.date).toLocaleDateString('en-US', options);
 <BaseLayout>
     <article class="max-w-3xl mx-auto p-5 border-t-2 pt-8 prose-h2:text-green-500 prose-h2:text-xl prose-h2:mt-5 prose-h2:mb-2 prose-pre:p-5 prose-pre:rounded-lg prose-pre:my-3 prose-p:mb-3 prose-p:mt-3 prose-ol:mb-3 prose-a:underline prose-a:decoration-teal-400 prose-a:underline-offset-4 prose-a:decoration-1 prose-a:text-slate-200 hover:prose-a:decoration-2 prose-h3:text-orange-400 prose-h3:text-lg prose-strong:text-violet-400 prose-ol:pl-7 prose-ol:list-decimal prose-ol:list-outside prose-blockquote:mb-3 prose-blockquote:object-center prose-blockquote:italic">
         <h1 class="text-3xl mb-2 bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text">{frontmatter.title}</h1>
-        <p class="text-sm text-slate-400 pb-6">Publised on {date}</p>
+        <p class="text-sm text-slate-400 pb-6">Published on {date}</p>
         <slot/>
     </article>
 </BaseLayout>
