@@ -10,7 +10,7 @@ const filteredPosts = allPosts.filter((post) => {
 //@ts-ignore
 const sortedPosts = filteredPosts.sort((a, b) => (new Date(b.frontmatter.date) - new Date(a.frontmatter.date)))
 ---
-<ul class="grid lg:grid-cols-2 gap-x-16">
+<ul class="gap-x-16">
     {sortedPosts.map((post) => 
     <li class="py-1">
         <details>
