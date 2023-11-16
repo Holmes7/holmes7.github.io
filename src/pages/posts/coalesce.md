@@ -25,16 +25,24 @@ When repartitioning, each partition is sent to an executor chosen using differen
 
 ### Understanding Coalesce
 
-Unlike repartition, which may shuffle data across the network, coalesce tries to merge partitions locally on the same executor. This strategy avoids the need for shuffling altogether, which we know is quite an expensive operation since it requires redistributing data across partitions over the network. 
+Unlike repartition, which shuffles data across the network, coalesce tries to merge partitions locally on the same executor. This strategy avoids the need for a full shuffle, which we know is quite an expensive operation since it requires redistributing partitions over the network. 
 
 ![Coalesce](https://user-images.githubusercontent.com/52966140/282919565-3e696c74-5df0-4916-9a9d-ade0632ab4d7.jpg)
+
+So then why is coalesce running slower when it is actually avoiding a shuffle?
 
 ## The Unintended Consequence: Sacrificing Parallelism
 
 Analyzing the Spark history server shed light on the situation. The coalesce operation, designed to sidestep shuffling, had condensed the workload onto a single executor. Surprisingly, there was only one task running in the coalesce program, in stark contrast to the repartition variant, which had spawned 36 tasks.
 
-Tasks in Spark perform computations on individual partitions, executing on a single executor. In the case of coalesce, the attempt to avoid shuffling accidently killed parallel processing. The entire workload was burdened onto a single executor, sacrificing the vital parallelism for efficient distributed computing.
+Tasks in Spark perform computations on individual partitions, executing on a single executor. Which means if we have 1 big partition, then we will have 1 task executing on single executor. If we have 1000 partitions, then 1000 tasks that can be executed in parallelI on multiple machines. 
+
+In the case of coalesce, the attempt to avoid shuffling accidently killed parallel processing. The entire workload was burdened onto a single executor, sacrificing the vital parallelism for efficient distributed computing.
 
 ## Conclusion
 
 The advice to use `coalesce` over `repartition` might work most of the times, but it doesn't work every time. Depending on the kind of workload, the tradeoffs must be considered to choose the best option.
+
+## References
+
+[spark-repartition-vs-coalesce](https://stackoverflow.com/questions/31610971/spark-repartition-vs-coalesce)
