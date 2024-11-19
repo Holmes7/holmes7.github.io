@@ -27,10 +27,52 @@ const projects = [
 ]
 // bg-gradient-to-bl from-gray-900 to-gray-600
 ---
-<section class="grid lg:grid-cols-3 gap-4">
-    {projects.map((project) => 
-    <div class="bg-gradient-to-bl from-gray-900 to-gray-600 rounded-xl px-6 py-5 text-center border border-slate-400 hover:opacity-50 hover:-translate-y-2 transition">
-        <a href={project.url}><h2 class="text-gray-300 mb-8 border-b pb-2">{project.name}</h2></a>
-        <p class="text-sm">{project.description}</p>
-    </div>)}
+<section class="grid lg:grid-cols-3 gap-6">
+    {projects.map((project) => (
+        <div class="group relative bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-800 overflow-hidden transition-all duration-300 hover:shadow-lg dark:hover:shadow-gray-800/50 hover:-translate-y-1">
+            <a href={project.url} class="block p-6">
+                {/* Project Header */}
+                <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                    {project.name}
+                </h2>
+
+                {/* Tags Section */}
+                <div class="flex flex-wrap gap-2 mt-3">
+                    {project.tags.map((tag) => (
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300">
+                            {tag}
+                        </span>
+                    ))}
+                </div>
+
+                {/* Description with gradient fade */}
+                <div class="relative mt-4">
+                    <p class="text-base text-gray-600 dark:text-gray-400">
+                        {project.description}
+                    </p>
+                </div>
+
+                {/* Visit Project Link */}
+                <div class="mt-4 flex items-center text-sm text-blue-600 dark:text-blue-400">
+                    Visit Project
+                    <svg 
+                        class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" 
+                        xmlns="http://www.w3.org/2000/svg" 
+                        viewBox="0 0 24 24" 
+                        fill="none" 
+                        stroke="currentColor" 
+                        stroke-width="2" 
+                        stroke-linecap="round" 
+                        stroke-linejoin="round"
+                    >
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </div>
+            </a>
+
+            {/* Top gradient accent */}
+            <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 to-purple-500"></div>
+        </div>
+    ))}
 </section>

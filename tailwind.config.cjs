@@ -4,7 +4,7 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				monaco: ['Monaco', 'monospace'],
+				comic: ['Comic Neue', 'cursive']
 			},
 		},
 	},

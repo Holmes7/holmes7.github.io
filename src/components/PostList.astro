@@ -10,16 +10,32 @@ const filteredPosts = allPosts.filter((post) => {
 //@ts-ignore
 const sortedPosts = filteredPosts.sort((a, b) => (new Date(b.frontmatter.date) - new Date(a.frontmatter.date)))
 ---
-<ul class="gap-x-16">
-    {sortedPosts.map((post) => 
-    <li class="py-1">
-        <details>
-            <summary class="marker:text-xl marker:text-orange-400 before:mr-3 hover:cursor-pointer">
-                <a href={post.url} class="text-base underline underline-offset-4 decoration-1 hover:decoration-cyan-300 hover:decoration-2">{post.frontmatter.title}</a>
-            </summary>
-            <div class="text-sm text-slate-400 pl-7 pt-3">
-                {post.frontmatter.description}
-            </div>
-        </details>
-    </li>)}
-</ul>
+<section class="space-y-4">
+    {sortedPosts.map((post) => (
+        <div class="group border-b border-gray-200 dark:border-gray-800 pb-4 pt-2">
+            <a 
+                href={post.url} 
+                class="flex items-center justify-between"
+            >
+                <div class="flex-1 pr-4">
+                    <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                        {post.frontmatter.title}
+                    </h2>
+                </div>
+                <div class="flex items-center">
+                    <svg 
+                        class="w-5 h-5 text-gray-400 dark:text-gray-600 group-hover:translate-x-1 transition-transform" 
+                        xmlns="http://www.w3.org/2000/svg" 
+                        viewBox="0 0 24 24" 
+                        fill="none" 
+                        stroke="currentColor" 
+                        stroke-width="2"
+                    >
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </div>
+            </a>
+        </div>
+    ))}
+</section>
