@@ -22,6 +22,18 @@ const socialLinks = [
     }
 ]
 ---
+
 <section>
-    <p class="flex gap-8">{ socialLinks.map((obj) => <a href={obj.link} class="text-2xl hover:text-sky-300"><i class={`decoration-sky-300 decoration-2 underline-offset-8 hover:underline ${obj.icon}`}></i></a> )}</p>
+  <div class="flex flex-wrap gap-4 justify-center">
+    {socialLinks.map((obj) => (
+      <a 
+        href={obj.link} 
+        class="text-2xl hover:text-sky-300"
+        aria-label={obj.name}
+      >
+        <i class={`decoration-sky-300 decoration-2 underline-offset-8 hover:underline ${obj.icon}`}></i>
+      </a>
+    ))}
+  </div>
 </section>
+
