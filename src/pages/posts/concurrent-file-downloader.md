@@ -4,6 +4,7 @@ title: How Free Download Manager Achieves Lightning-Fast Speeds
 date: 2023-09-05
 published: false
 description: abc
+tags: ['tech']
 ---
 So I have been using [Free Download Manager](https://www.freedownloadmanager.org/) for quite a while. I always got amazed at how it gave me 5-10x the speed of a normal download using the browser. I knew it used concurrency but had no idea how it's actually working under the hood. So I decided to build one for myself to understand it and documented the journey in this blog. If the problem seems interesting to you, read along.
 

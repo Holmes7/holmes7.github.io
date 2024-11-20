@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Demystifying Unix Pipes"
 date: 2023-09-23
 description: A few days ago, I wanted to preview a massive 1.1 GB file stored on an S3 bucket. Downloading it would take a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I received the results within seconds, but the underlying process was not intuitive to me. Trying to uncover this magic ...
+tags: ['tech']
 ---
 
 A few days ago, I wanted to preview the first few lines of a massive 1.1 GB file stored on an S3 bucket. Downloading it would have taken a lot of time so I asked my senior for help, and he told me to run the usual aws copy file command with the unix tool head. I expected it to still take a lot of time but surprisingly I got the results in a few seconds.

@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: My ICPC Amritapuri Regionals Experience
 description: In this blog, I'll walk you through the challenges, strategies, and insights gained when I participated in ACM-ICPC regionals, shedding light on the world of algorithmic problem-solving for college students. Join me as I recount our adventure, from the anxious prelude to the epic contest, and explore the valuable lessons learned along the way.
 date: 2023-04-04
+tags: ['tech']
 ---
 
 If you're not familiar with ACM-ICPC, it's like the Olympics of coding for college students. It's a competition where students from all over the world come together to tackle challenging algorithmic problems, relying solely on their problem-solving skills and coding abilities. Me and my team, the StaticProgrammers, participated in the online qualifiers held in March and were placed 30th. This made us eligible for the Amritapuri Regionals and this blog is about my experience participating in it.

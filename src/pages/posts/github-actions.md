@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: Saving 2 Minutes of My Life with GitHub Actions
 date: 2023-02-12
 description: In this blog, I'll share my first-hand experience with GitHub Actions, illustrating how it streamlined my development workflow. I'll walk you through its core concepts, integration into project structures, and how it solved a critical problem for me personally.
+tags: ['tech']
 ---
 
 ## The Problem

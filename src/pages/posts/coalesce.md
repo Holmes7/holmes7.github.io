@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: Analyzing a 30x Slowdown in My Spark Program Due to Coalesce
 description: This blog post explores the unexpected performance impact of using coalesce(1) in Apache Spark in distributed computing. I discovered that while coalesce avoids costly shuffling, it unintentionally sacrifices parallelism in some cases, leading to a significant slowdown in runtime performance.
 date: 2023-11-15
+tags: ['tech']
 ---
 
 Recently, I encountered a puzzling issue while working on a task involving pre-written Spark code. Although the code had proven itself in previous iterations, its runtime performance on my dataset was surprisingly slow. I went on to check how much data was already written and to my surprise there was a single file, no partitions, of 8.5GB size. I immediately decided to stop the program and started to investigate.
