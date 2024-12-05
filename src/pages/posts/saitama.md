@@ -1,88 +1,97 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Saitama - One Punch Man Analysis"
+title: "A brief philosohical analysis of the person who changed my life"
 date: 2024-11-21
 description: A brief analysis of one of my favourite characters, Saitama!
 tags: ['thoughts']
 ---
 
-It's funny to think that the person who has had the most impact on my life is a fictional character from a comedy anime. The anime I'm talking about is One-Punch Man (Season 1). 
+It's funny to think that the person who has had the most impact on my life is a fictional character from a comedy anime. The anime I'm talking about is *One-Punch Man (Season 1)*, and the character is Saitama.
 
 > I highly recommend watching the anime first. **Spoilers ahead**.
 
-The anime is a masterpiece with the potential to change your perspective on how to live. It's one of things I come back to whenever I feel lost in life. Here, I’m just sharing a few of the subtle philosophical ideas that resonated with me, rather than giving a full summary. I was listening to the [Opm sad OST](https://www.youtube.com/watch?v=-Zm2MnYBXHY) on loop when writing this article, I'd highly recommend listening to it when reading.
+This anime is a masterpiece, with the potential to change how you see life. It’s one of those rare works I revisit whenever I feel lost. Here, I’m not providing a full summary but sharing a few philosophical ideas that resonated deeply with me. To set the mood, I recommend listening to the [OPM Sad OST](https://www.youtube.com/watch?v=-Zm2MnYBXHY) on loop while reading this.
 
-## Initial look into Saitama's thoughts
-In the very first scene, we get a glimpse into Saitama's mind. He’s a hero "for fun".
+## A Glimpse Into Saitama’s Mind
+
+Right from the first scene, we get a peek into Saitama's perspective. He’s a hero "for fun."
+
 ![fun](https://i.postimg.cc/NG1gGBxB/hero-for-fun.png)
-Not for some noble cause, not for fame, and definitely not for anyone else.
 
-After a few more fights, Saitama realises nobody knows who he is, despite all the good he’s done. This seems unfair—he’s saved so many people, so they should be grateful to him, right? We see ourselves in him, not getting recognised for our work. The Anime keeps triggering this emotion in us throughout.
+He doesn’t fight for a noble cause, fame, or recognition—he fights because he enjoys it. As the story unfolds, we see him grappling with the disconnect between his incredible deeds and the lack of recognition. This feels unfair. He saves countless lives, so shouldn’t people be grateful? It’s a feeling many of us can relate to: working hard yet being overlooked. This theme keeps surfacing throughout the anime.
 
 ![no-one](https://i.postimg.cc/DwzFcs3w/no-one.png)
 
-The anime’s answer for above is simple: he’s not registered in the Hero Registry. Anyone doing heroic work without being registered is just seen as some weirdo.
+The answer, as the anime shows, is simple: Saitama isn’t registered in the Hero Registry. In this world, anyone doing heroic work without being part of the system is just seen as a weirdo.
 
 ## The Hero Registry
 
 ### A Commentary on Social Systems
-To me, the hero system is a metaphor. We’re all the heroes of our own lives, the monsters are the challenges we face, and the people in the town represent society. The hero hierarchy mirrors our social structures. At the top, there are "S-class" people whom society respects, while at the bottom, there are "C-class" people struggling just to be acknowledged. Then there are those who follow their hearts and do honest work, only to be dismissed as weirdoes. Anybody who doesn't conform to the societal norms isn't worthy of any respect apparently.
 
-As viewers, we naturally want Saitama to get the recognition he deserves. We want society to see how strong he is. But every time he does heroic work, someone else gets the credit. I remember getting quite frustrated over this.
+The Hero Registry symbolizes the structures of society. We are all heroes in our own lives, battling personal monsters. The hero hierarchy mirrors real-world social systems: S-class heroes at the top enjoy respect, while C-class heroes struggle to be acknowledged. Then there are people like Saitama—those who follow their own path and work honestly, only to be dismissed as oddballs. Society often fails to recognize genuine effort unless it conforms to its rules.
 
-### What Kind of Hero Do I Want to Be?
-He decides he'll register in the hero registry. He takes the hero exam but, despite being so strong, is placed at the bottom. Does this mean he’s less of a hero than the others? Is he less deserving of respect? This reflects how our own social hierarchies can be unfair, with flawed and unjust rules for moving up the ladder.
+As viewers, we root for Saitama to receive the recognition he deserves. But time and again, someone else gets the credit. It’s frustrating, isn’t it?
 
-After the exam, we see Saitama questioning whether this is the kind of hero he wants to be—a hero defined by some arbitrary rank. 
+### What Kind of Hero Do You Want to Be?
+
+Saitama eventually registers as a hero. Despite his unmatched strength, the system places him at the bottom. Does this mean he’s less of a hero? Less deserving of respect? This mirrors how our own social systems can be flawed and unfair.
+
+After the exam, Saitama wonders if this is what being a hero really means—being defined by arbitrary ranks and titles.
+
 ![reflection](https://i.postimg.cc/FKd4M4Rt/not-the-hero.png)
-A similar question that comes to our mind every now and then: "Is this really what I’m supposed to be doing?"
+
+It’s a question we’ve all faced at some point: *"Is this really what I’m supposed to be doing?"*
 
 ## The Meteor Arc
 
-### Rising in the Ranks
-The next big moment is when Saitama saves the city by destroying a meteor—something even the top S-class heroes couldn’t do. He moves up from rank 342 to rank 5 in class C. Here, we see a more human side of him; he’s genuinely excited. 
+### Climbing the Ladder
+
+In one memorable moment, Saitama saves an entire city by destroying a meteor—a task even the top S-class heroes couldn’t achieve. His rank rises from 342 to 5 in C-class. Here, we see his human side: he’s genuinely excited.
+
 ![excited-boi](https://i.postimg.cc/d1GK0jr4/sait-excited.png)
-It’s not that he doesn’t care about the hero system at all—after all, he’s only human. Climbing the social hierarchy, however absurd, gives us a certain satisfaction. That’s just human nature, and there’s nothing wrong with it.
 
-### The Ugly Society
-But Saitama’s triumph doesn’t go as expected. He’s blamed for the partial destruction of the city, despite saving it. We see the ugly side of society: instead of focusing on the good he did, he’s ridiculed. Other heroes even try to humiliate him out of jealousy. Watching this was a stark reminder of how cruel society can be.
+Even Saitama isn’t entirely above the desire for recognition. Climbing the social ladder, however flawed, gives us a sense of accomplishment. It’s natural, and there’s nothing wrong with it.
 
-Imagine a hero whose primary motivation was to become a person who is admired by the people he saves. Such a person would be crushed by this response, feeling like all their efforts were in vain. But Saitama is different. He’s not unaffected by the public humiliation; we can see he’s angry.
+### The Ugly Side of Society
+
+But things don’t go as expected. Instead of being celebrated, Saitama is blamed for the destruction caused by the meteor fragments. People ignore the fact that he saved them. Other heroes, driven by jealousy, attempt to humiliate him.
+
+This exposes the harsh reality of society: people often focus on negatives or discredit the efforts of others out of envy.
+
+Imagine a hero whose main motivation is admiration from others. Such a person would feel crushed in Saitama’s shoes, believing their efforts were in vain. But Saitama is different. While the public humiliation angers him, he endures it because his motivation comes from within.
 
 ![admiration-1](https://i.postimg.cc/wBGBN2tz/admiration-1.png)
 ![admiration-2](https://i.postimg.cc/Kz38DTLM/admiration-2.png)
 ![admiration-3](https://i.postimg.cc/QCLx4Mkn/admiration-3.png)
 
-But he can endure it and keep going because he doesn’t rely on others’ approval, at the fundamental level. His motivation comes from within.
+The crowd’s opinions don’t dictate his sense of self-worth.
 
-In following scenes, people continue to dismiss Saitama’s accomplishments, seeing them as "cheating" simply because he’s a C-class hero. We see this in real life too: when someone lower on the social hierarchy does something good, it often goes unnoticed, while influencers doing the same thing on camera get praised as model citizens.
+## The Deep Sea King Arc
 
-## Deep Sea King Arc
+### The Battle
 
-### The Scene
-Then comes the Deep Sea King arc. There are many ideas to unpack here, but I’ll stick to what’s relevant to Saitama. The Deep Sea King is incredibly strong; Puri Puri Prisoner and Genos both lose to him. After a beautiful scene with Mumen Rider, Saitama finally arrives. Mumen Rider is utterly defeated, but Saitama congratulates him saying it was a good fight.
+The Deep Sea King arc offers many profound moments, but I’ll focus on Saitama. The Deep Sea King is incredibly strong, defeating heroes like Puri Puri Prisoner and Genos. Mumen Rider’s valiant but futile stand is heart-wrenching. When Saitama arrives, he congratulates Mumen Rider, appreciating his courage.
 
-Saitama defeats the monster in front of a huge audience. We assume he’ll finally get the recognition he deserves. Someone in the crowd claims that only Saitama is the "real" hero, dismissing the others who risked their lives. That they shouldn't even call themselves heroes as a hero's job is to beat villains.
+Saitama defeats the monster effortlessly in front of a large crowd. Finally, it seems like he’ll get the recognition he deserves. But when someone in the crowd suggests that only Saitama is a "real" hero, dismissing the efforts of others, Saitama takes a surprising step.
 
-### Saitama's True Strength
-This moment shows us the true strength of Saitama, not the strength of his body but of his character. He could accept the praise and become popular, which he secretly wants, since he’s only human.
+### True Heroism
 
-But Saitama asks himself what is the price of this recognition? Is it fine for people to think heroism is just beating monsters and being the strongest. Is it fine for them to not value the other heroes who died saving them?
+This moment reveals Saitama’s real strength—not just physical, but moral. He could have accepted the praise and become popular. Instead, he asks himself: *At what cost?*
 
-If I extend the metaphor, all of us in our lives are facing our own monsters, our own challenges. A small time artist doing what he loves can't make the big bucks like some wealthy businessman or attract incredible fame like some superstar. But does that mean he isn't a hero? Is he less worthy of respect?
+Would it be right for people to believe heroism is only about winning? Should they devalue the sacrifices of other heroes?
 
-Saitama wasn’t impressed by Mumen Rider’s ability to hurt the Deep Sea King; he was impressed by his spirit. He doesn’t believe that being a hero is just about defeating monsters. It's fine even if the monster isn't defeated, he respect the fight. 
+If life is a metaphorical battle, then each of us faces our own monsters. A small-time artist pursuing their passion may not earn as much as a wealthy businessman or gain fame like a superstar. But does that make their efforts any less valuable?
 
-Yes, he wants appreciation, but he knows there are things that matter more to him. He believes that his reputation isn’t worth sacrificing the true meaning of heroism in people’s hearts.
+Saitama wasn’t impressed by Mumen Rider’s strength but by his spirit. To him, heroism isn’t about defeating monsters—it’s about fighting for what matters, regardless of the outcome.
 
-He willingly claims that he was only able to defeat the monster as others weakened it before. This leads to the crowd completely hating him for trying to steal credit for other heroes work. He makes people hate him.
+Saitama lies to the crowd, claiming he only won because the other heroes weakened the monster. As a result, the people hate him, accusing him of stealing credit.
 
 ![sad](https://i.postimg.cc/kG9PRRy9/sait-right-thing.png)
 
-## What really matters?
-The first time I watched this scene, I was just a 16 yr old kid and I was completely in awe. How can someone willingly invite public ridicule when he has done nothing to deserve it? How can someone's will be this strong? Just as a viewer I desperately wanted him to finally be recognised, so I can only imagine how much he would want it. Even then, he does what he believes in, without getting corrupted fame and appreciation. This is just magical to me.
+### What Really Matters?
+The first time I watched this scene, I was just a 16 yr old kid and I was completely in awe. How can someone willingly invite public ridicule when he has done nothing to deserve it? How can someone's will be this strong? Just as a viewer I desperately wanted him to finally be recognised, so I can only imagine how much he would want it. Even then, he does what he believes in, without getting corrupted by fame and appreciation. This is just magical to me.
 
-Over time, I started to question whether wanting appreciation is inherently wrong, questioning the motive behind each of my actions. As humans, we naturally crave recognition, fame, or validation— that's part of how we’ve evolved. However, if this becomes our primary motivation for everything we do, it will eventually corrupt us. What if, in the end, after getting the recognition we wanted, we find that we’ve lost our true selves in the process? Would you say that was a fair bargain?
+Over time, I started to question whether wanting appreciation is inherently wrong, questioning the motive behind each of my actions. As humans, we naturally crave recognition, fame, or validation— that's part of how we’ve evolved. However, if this becomes our primary motivation for everything we do, will it not eventually corrupt us? What if, in the end, after getting the recognition we wanted, we find that we’ve lost our true selves in the process? Would you say that was a fair bargain?
 
 Saitama follows his heart irrespective of what society expects from him. It would definitely make him happy if people would appreciate what he's been doing, but he won't change himself just so he'd be appreciated.
 
@@ -90,7 +99,7 @@ Saitama follows his heart irrespective of what society expects from him. It woul
 
 ### The Reward
 
-He doesn’t gain widespread recognition despite his good deeds. He doesn't have a fan club. Most of the people think he's just a cheat. **But**, he earns the respect of a few people. And they respect him for who he truly is.
+Saitama doesn’t gain widespread fame or respect. Most people dismiss him as a fraud. **But**, he earns the genuine respect of a few people who see him for who he truly is.
 
 ![genos-1](https://i.postimg.cc/ZqCbJNwM/genos-thanks-1.png)
 ![genos-2](https://i.postimg.cc/FK89zKqs/genos-thanks-2.png)
@@ -99,4 +108,4 @@ He doesn’t gain widespread recognition despite his good deeds. He doesn't have
 ![bang](https://i.postimg.cc/DwffYHLF/bang.png)
 ![Mumen](https://i.postimg.cc/bNpqsW6b/mumen-thanks.png)
 
-Maybe, in the end, they are the only ones who truly matter.
+And in the end, maybe they’re the only ones who truly matter.
