@@ -40,7 +40,9 @@ After the exam, Saitama wonders if this is what being a hero really means—bein
 
 ![reflection](https://i.postimg.cc/FKd4M4Rt/not-the-hero.png)
 
-It’s a question we’ve all faced at some point: *"Is this really what I’m supposed to be doing?"*
+It’s a question we ask ourselves usually
+
+> Is this really what I want to do in my life?
 
 ## The Meteor Arc
 
@@ -54,17 +56,15 @@ Even Saitama isn’t entirely above the desire for recognition. Climbing the soc
 
 ### The Ugly Side of Society
 
-But things don’t go as expected. Instead of being celebrated, Saitama is blamed for the destruction caused by the meteor fragments. People ignore the fact that he saved them. Other heroes, driven by jealousy, attempt to humiliate him.
+But Saitama’s triumph doesn’t go as expected. He’s blamed for the partial destruction of the city, despite saving it. We see the ugly side of society: instead of focusing on the good he did, he’s ridiculed. Other heroes even try to humiliate him out of jealousy. Watching this was a stark reminder of how cruel society can be.
 
-This exposes the harsh reality of society: people often focus on negatives or discredit the efforts of others out of envy.
-
-Imagine a hero whose main motivation is admiration from others. Such a person would feel crushed in Saitama’s shoes, believing their efforts were in vain. But Saitama is different. While the public humiliation angers him, he endures it because his motivation comes from within.
+Imagine a hero whose primary motivation was to become a person who is admired by the people he saves. Such a person would be crushed by this response, feeling like all their efforts were in vain. But Saitama is different. He’s not unaffected by the public humiliation; we can see he’s angry.
 
 ![admiration-1](https://i.postimg.cc/wBGBN2tz/admiration-1.png)
 ![admiration-2](https://i.postimg.cc/Kz38DTLM/admiration-2.png)
 ![admiration-3](https://i.postimg.cc/QCLx4Mkn/admiration-3.png)
 
-The crowd’s opinions don’t dictate his sense of self-worth.
+But he can endure it and keep going because he doesn’t rely on others’ approval, at the fundamental level. His motivation comes from within.
 
 ## The Deep Sea King Arc
 
@@ -76,13 +76,13 @@ Saitama defeats the monster effortlessly in front of a large crowd. Finally, it 
 
 ### True Heroism
 
-This moment reveals Saitama’s real strength—not just physical, but moral. He could have accepted the praise and become popular. Instead, he asks himself: *At what cost?*
+This moment reveals Saitama’s real strength—not just physical, but moral. He could have accepted the praise and become popular, which he secretly wants. Instead, he asks himself: *At what cost?*
 
-Would it be right for people to believe heroism is only about winning? Should they devalue the sacrifices of other heroes?
+Is it fine for people to think heroism is just beating monsters and being the strongest. Is it fine for them to not value the other heroes who died saving them?
 
-If life is a metaphorical battle, then each of us faces our own monsters. A small-time artist pursuing their passion may not earn as much as a wealthy businessman or gain fame like a superstar. But does that make their efforts any less valuable?
+If I extend the metaphor, all of us in our lives are facing our own monsters, our own challenges. A small time artist doing what he loves can't make the big bucks like some wealthy businessman or attract incredible fame like some superstar. But does that mean he isn't a hero? Is he less worthy of respect?
 
-Saitama wasn’t impressed by Mumen Rider’s strength but by his spirit. To him, heroism isn’t about defeating monsters—it’s about fighting for what matters, regardless of the outcome.
+Saitama wasn’t impressed by Mumen Rider’s ability to hurt the Deep Sea King; he was impressed by his spirit. He doesn’t believe that being a hero is just about defeating monsters. It's fine even if the monster isn't defeated, he respects the fight.
 
 Saitama lies to the crowd, claiming he only won because the other heroes weakened the monster. As a result, the people hate him, accusing him of stealing credit.
 
@@ -99,7 +99,7 @@ Saitama follows his heart irrespective of what society expects from him. It woul
 
 ### The Reward
 
-Saitama doesn’t gain widespread fame or respect. Most people dismiss him as a fraud. **But**, he earns the genuine respect of a few people who see him for who he truly is.
+He doesn’t gain widespread recognition despite his good deeds. He doesn't have a fan club. Most of the people think he's just a cheat. **But**, he earns the respect of a few people. And they respect him for who he truly is.
 
 ![genos-1](https://i.postimg.cc/ZqCbJNwM/genos-thanks-1.png)
 ![genos-2](https://i.postimg.cc/FK89zKqs/genos-thanks-2.png)
