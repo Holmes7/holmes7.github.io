@@ -9,20 +9,22 @@ I helped them.
 
 But did I really help them?
 <br></br>
+Was it out of genuine care—or because I wanted something in return?
 
-Maybe I helped them so that they would owe me something.
+Did I hope they'd feel indebted to me?
 
-Maybe I helped them just to record a video and gain some internet fame.
+Was it for the video, the likes, the fleeting taste of internet glory?
 
-Maybe I helped them because someone I know was watching, and I wanted them to think highly of me.
+Or because someone I admired was watching, and I wanted to seem admirable too?
 
-Maybe I helped them hoping that someone else will help me in the future.
+Maybe I was chasing karma—hoping that by helping them, someone would one day help me.
 
-Maybe someone helped me in the past, and I feel like I still owe something in return.
+Or perhaps I’m repaying a debt, one that was never asked for but still lingers.
 
-Maybe I helped them because I was told a place in heaven would be reserved for me.
+Maybe I helped them because I was promised a place in heaven,
 
-Maybe I helped them because I was told that good deeds can wash away sins.
+or because I believed that good deeds could erase my sins.
 <br></br>
+So I wonder...
 
-So I ask again—did I really help them, or was I just helping myself all along?
+Did I truly help them—or was I just trying to help myself all along?
