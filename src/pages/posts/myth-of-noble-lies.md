@@ -39,6 +39,6 @@ Even if someone understands that you had good intentions, the fact remains—you
 
 ## Final Thoughts
 
-To be clear, I’m not talking about lying in general. I’m specifically addressing those situations where people lie under the illusion that they're performing an altruistic act—when, in reality, they are acting out of a selfish desire to control, often without realizing it.
+To be clear, I’m not talking about lying in general. I’m specifically addressing those situations where people lie under the illusion that they're performing an altruistic act—when, in reality, they are acting out of a selfish desire to control, often without realizing it. The lengths to which human mind goes to avoid accountability is quite funny.
 
 At the core of all this, I believe the need to control others stems from a lack of control over one’s own self. But this is just my theory—maybe I’m wrong.
