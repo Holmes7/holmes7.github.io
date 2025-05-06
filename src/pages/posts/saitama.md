@@ -7,13 +7,11 @@ tags: ['thoughts']
 ---
 
 It's funny to think that the person who has had the most impact on my life is a fictional character from a comedy anime. The anime I'm talking about is *One-Punch Man (Season 1)*, and the character is Saitama.
-
 > I highly recommend watching the anime first. **Spoilers ahead**.
 
 This anime is a masterpiece, with the potential to change how you see life. It’s one of those rare works I revisit whenever I feel lost. Here, I’m not providing a full summary but sharing a few philosophical ideas that resonated deeply with me. To set the mood, I recommend listening to the [OPM Sad OST](https://www.youtube.com/watch?v=-Zm2MnYBXHY) on loop while reading this.
 
 ## A Glimpse Into Saitama’s Mind
-
 Right from the first scene, we get a peek into Saitama's perspective. He’s a hero "for fun."
 
 ![fun](https://i.postimg.cc/NG1gGBxB/hero-for-fun.png)
@@ -33,7 +31,6 @@ The Hero Registry symbolizes the structures of society. We are all heroes in our
 As viewers, we root for Saitama to receive the recognition he deserves. But time and again, someone else gets the credit. It’s frustrating, isn’t it?
 
 ### What Kind of Hero Do You Want to Be?
-
 Saitama eventually registers as a hero. Despite his unmatched strength, the system places him at the bottom. Does this mean he’s less of a hero? Less deserving of respect? This mirrors how our own social systems can be flawed and unfair.
 
 After the exam, Saitama wonders if this is what being a hero really means—being defined by arbitrary ranks and titles.
@@ -47,7 +44,6 @@ It’s a question we ask ourselves usually
 ## The Meteor Arc
 
 ### Climbing the Ladder
-
 In one memorable moment, Saitama saves an entire city by destroying a meteor—a task even the top S-class heroes couldn’t achieve. His rank rises from 342 to 5 in C-class. Here, we see his human side: he’s genuinely excited.
 
 ![excited-boi](https://i.postimg.cc/d1GK0jr4/sait-excited.png)

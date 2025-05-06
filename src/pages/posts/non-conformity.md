@@ -47,7 +47,6 @@ But I think it’s important to talk about the downsides of non-conformity too. 
 If you're interested in learning more about the foundations of non-conformity, I can recommend the videos below (Ralph Waldo Emerson is the GOAT)
 
 [The Psychology of Conformity](https://www.youtube.com/watch?v=ARGczzoPASo)
-
 [Why Nonconformity Cures a Sick Self and a Sick Society](https://www.youtube.com/watch?v=6UaCOO88oSo)
 
 But please remember, non-conformity isn’t about being different just for the sake of it. It’s about questioning the norm with intention. Please don't disrespect the concept.

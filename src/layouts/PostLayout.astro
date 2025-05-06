@@ -6,7 +6,7 @@ const options = { day: 'numeric', month: 'long', year: 'numeric' };
 const date = new Date(frontmatter.date).toLocaleDateString('en-US', options);
 ---
 <BaseLayout>
-    <article class="tracking-wide max-w-3xl mx-auto py-5 border-t-2 pt-8 prose-p:text-lg prose-h2:text-green-500 prose-h2:text-2xl prose-h2:mt-5 prose-h2:mb-2 prose-pre:p-5 prose-pre:rounded-lg prose-pre:my-3 prose-p:mb-3 prose-p:mt-3 prose-ol:mb-3 prose-a:underline prose-a:decoration-teal-400 prose-a:underline-offset-4 prose-a:decoration-1 prose-a:text-slate-200 hover:prose-a:decoration-2 prose-h3:text-orange-400 prose-h3:text-xl prose-strong:text-violet-400 prose-ol:pl-7 prose-ol:list-decimal prose-ol:list-outside prose-blockquote:mb-3 prose-blockquote:object-center prose-blockquote:italic">
+    <article class="tracking-wide max-w-3xl mx-auto py-5 border-t-2 pt-8 prose-p:text-lg prose-h2:text-green-500 prose-h2:text-2xl prose-pre:p-5 prose-pre:rounded-lg prose-pre:my-3 prose-ol:mb-3 prose-a:underline prose-a:decoration-teal-400 prose-a:underline-offset-4 prose-a:decoration-1 prose-a:text-slate-200 hover:prose-a:decoration-2 prose-h3:text-orange-400 prose-h3:text-xl prose-strong:text-slate-100 prose-strong:font-extrabold prose-ol:pl-7 prose-ol:list-decimal prose-ol:list-outside prose-blockquote:object-center prose-blockquote:italic whitespace-pre-line prose-blockquote:py-0">
         <h1 class="text-4xl mb-2 bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text">{frontmatter.title}</h1>
         <p class="text-base text-slate-400 pb-6">Created on {date}</p>
         <slot/>
