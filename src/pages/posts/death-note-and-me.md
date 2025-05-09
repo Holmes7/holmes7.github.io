@@ -46,9 +46,9 @@ I’d been scared to admit I could be wrong. Somehow, dismissing something I did
 
 I wondered: What if I’d let my ego win? What if I’d stayed stubborn, just to prove I was right, and never watched the show?
 
-Eventually, my friend would’ve stopped insisting. But who would’ve lost?
+Eventually, my friend would’ve stopped insisting. But who really loses? Is it my friend, who would finally realize his favorite show was bad and concede? Or is it the creators, who might cast real actors next time?
 
-I would have. If I’d died without experiencing something this incredible, it would’ve been my loss, and mine alone.
+Lol, it would obviously be me. If I’d died without experiencing something this incredible, it would’ve been my loss, and mine alone.
 
 ## A Turning Point
 
