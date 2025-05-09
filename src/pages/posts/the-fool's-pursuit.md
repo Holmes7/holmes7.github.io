@@ -18,7 +18,7 @@ They call it a quest for wisdom, for clarity, but it’s really a hunger they ca
 
 And the answers bring with them a shattering realization, that the lies they despised were the only things keeping everything from falling apart. And now, knowing everything, they cannot unsee it.
 
-If I were to meet such a fool, I would want to save them — to tell them to stop, to turn back, to cling to the fragile happiness they still possess. 
+If I were to meet such a fool, I would want to save them — to tell them to stop, to turn back, to cling to the fragile happiness they still possess.
 Yet, in the end, I would fall prey to the same fate, only to be eaten by the very force I tried to save them from.
 
 Because, in truth, I am that fool.

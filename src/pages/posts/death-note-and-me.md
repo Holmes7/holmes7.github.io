@@ -5,9 +5,9 @@ date: 2025-05-10
 description: The anime closest to my heart
 tags: ['thoughts']
 ---
-I think it was October 2016. I had just started my JEE coaching. I was planning to publish this blog next year on the 10-year anniversary—but man, what if I die by then? I don't want to die before telling this story :)
+I was planning to publish this blog next year on the 10-year anniversary—but man, what if I die by then? I don't want to die before telling this story :)
 
-Anyway, back then, my parents believed the internet and digital devices were a curse. So before that, I hadn’t really been exposed to them. The only media I knew were the ones my parents showed me: Bollywood movies and a few Hollywood ones.
+I think it was October 2016. I had just started my JEE coaching. Back then, my parents believed the internet and digital devices were a curse. So before that, I hadn’t really been exposed to them. The only media I knew were the ones my parents showed me: Bollywood movies and a few Hollywood ones.
 
 ## The Recommendation of a Lifetime
 One day, for some reason, a friend recommended this anime called Death Note. He told me it was really good and that I should check it out. I went home, looked it up—and saw that it was animated.
