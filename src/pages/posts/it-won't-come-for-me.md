@@ -1,47 +1,45 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "It won't come for me"
+title: "It Won't Come For Me"
 date: 2025-05-18
 description: A piece inspired by the foolish men of this world
 tags: ['thoughts']
 ---
 
-“It won’t come for me,” he said,
+“It won’t come for me,” he said.
 “It hunts the wicked—
 I am the one who helps,
-the holy, the clean.”
+the pure, the gifted.”
 
-Looking away from the horrors,
-was he shielding himself from the ugly,
-or were his dreams too beautiful 
-to truly let go?
+He turned away from horror’s face
+Was it the ugly he feared to know,
+or were his dreams too beautiful,
+too sacred to let go?
 
-A weak voice cried,
+A quiet voice cried,
 “Wake up, while there’s still time.
 Your faith isn’t worth a dime.
 You think you’re safe, but you are the prey.
-You feed the beast by playing its way.”
+You feed the beast by living its way.”
 
-“You speak of beasts and broken faith—
-but have your hands ever bled?
-If you’ve not suffered, you have no right
-to speak of what lies ahead.”
+"You preach of beasts and faith,” he said,
+“but what do you know of wounds that spread?
+If you’ve not suffered, starved, or bled
+then keep your warnings. I’ll walk ahead."
 
-Through stubborn pride
-he could not feel,
-the voice destroying
-their own dreams to heal.
+Pride made blind what eyes might see—
+he missed the voice's quiet plea,
+how every word it dared to say
+was carved from dreams it gave away.
 
-Then came the night
-that tore his faith to blood,
-ripped away his skin,
-and left him naked in the mud—
-to face the monstrous truth
-he’d long denied
+Then came the night that tore his faith to blood,
+peeled him raw and dragged him through the mud
+to meet the truth that chilled his breath,
+the beast that whispered fear and death.
 
 Losing everything,
 he cried for eyes to see,
-begged them to look—
+pleading for hearts to feel
 but they turned away from the plea,
 whispering cold,
 “It won’t come for me.”
