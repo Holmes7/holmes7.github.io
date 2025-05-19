@@ -5,6 +5,7 @@ date: 2025-05-06
 description: The dilemma eating me up from inside
 tags: ['thoughts']
 ---
+
 There are many kinds of fools in this world
 Fools who betray their own soul for others,
 Fools who toss away what they have for something they will never find, 
@@ -22,5 +23,7 @@ If I were to meet such a fool, I would want to save them — to tell them to sto
 But deep down, I know it’s already too late
 
 Because, in truth, I am that fool.
+
+> Here the ways of men divide. If you wish to strive for peace of soul and happiness, then believe; if you wish to be a disciple of truth, then inquire - Friedrich Nietzsche 
 
 **P.S: Inspired by L's monster speech from Death Note**
