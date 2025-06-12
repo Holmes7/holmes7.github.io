@@ -7,19 +7,19 @@ tags: ['thoughts']
 ---
 
 I used to slip through secret doors,
-Where music rose from velvet floors,
-Where colors danced in endless streams,
+As music hummed from velvet floors.
+Colors whirled in endless streams,
 And I would float inside my dreams.
 
 But each time I looked to the sky
 A lonely peak would catch my eye
 A mountain crowned in silver light—
-It whispered tales of brighter sights.
+It whispered tales of a brighter sight.
 
 I told myself, "The world can wait
 This is no time to pause or rest
-I’ll chase the heights while I am strong—
-The magic below will still hold strong"
+Climb the heights while strength is near—
+The world I love will still be here"
 
 So up I went through wind and stone,
 My only guide, a dream unknown
@@ -28,16 +28,16 @@ I chased the myth of the higher sight.
 
 And now I stand where once I gazed,
 The sky is pale, the wind a haze
-I rest and search that spark again,
+I rest and search that world again,
 But silence answers back with pain.
 
-The colors fade, the songs are hushed,
+The colors faded, the songs hushed,
 The joy I knew reduced to dust.
 I ask the sky, “Where did it go—
 That world I loved, so long ago?”
 
 The sky answered, “The world stands true,
-Its music sings in colored hues
+Its music still sings in colored hues
 But wonder fades when hearts grow tight
 You lost the eyes that made it bright.”
 
