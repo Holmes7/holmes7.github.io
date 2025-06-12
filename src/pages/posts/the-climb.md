@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: "The Climb"
-date: 2024-11-21
+date: 2025-06-12
 description: Having lost the ability to enjoy some of the "childish" things, I realise what I have missed
 tags: ['thoughts']
 ---
