@@ -26,8 +26,7 @@ If you’re not in the mood to read all about it, here’s the tl;dr:
 At least, that’s the promise.
 
 ### The Cult
-There’s a bit of a cult following around this idea.  
-Everyone seems to implement it differently—maybe for content, maybe for clout—showcasing beautiful webs of interconnected notes like this one:
+There’s a bit of a cult following around this idea. Everyone seems to implement it differently—maybe for content, maybe for clout—showcasing beautiful webs of interconnected notes like this one:
 ![](https://forum.obsidian.md/uploads/default/original/3X/3/3/338d6f9cb03a40154eb4ada379ab725de934e678.png)
 It all looks incredibly impressive. But, what exactly is the functional use of this? I wondered back then.
 
