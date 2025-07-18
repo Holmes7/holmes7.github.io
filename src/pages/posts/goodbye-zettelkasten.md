@@ -10,7 +10,7 @@ Oh man, the amount of time I’ve wasted on this bullshit. And my sanity!
 
 ## Always Learning, Always Forgetting
 I've spent a lot of my time on the internet learning just about anything and everything that piqued my interest. From philosophy to photography, psychology to writing, social skills to exercise and health science, you name it. 
-But I also forgot a lot of it. Many times it has happened that I know I have learnt this before but since I have forgotten the details and thought process, I'll have to research it all again.
+But I also forget a lot of it. Many times, I’ve found myself knowing that I’ve learned something before, but since I’ve forgotten the details and the thought process, I have to research it all over again.
 
 ## A System
 Around May of last year, it hit me—this was clearly a massive waste of time. I needed a system. The most obvious solution? **Take notes.**
