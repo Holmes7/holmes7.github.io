@@ -22,7 +22,7 @@ A fool he is, and nothing more
 
 The real wise are those who call me great,
 who see my beauty, true and straight
-I flood their hands with love and prize,
+I flood them with love and prize,
 for only they see with honest eyes
 
 The mirror lies, the wise are fools,
