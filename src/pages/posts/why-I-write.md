@@ -27,7 +27,7 @@ Don’t get me wrong. I have been very authentic with the people around me. It i
 
 Not because they’re secret or too personal, but because I have realised that people really don't care. We are all selfish and that is just human nature, nothing wrong with it. 
 
-Even when I have shared pieces of myself, I’ve often seen the blank look usually turning into a misunderstanding. People in general just aren't interested in deep thoughts. And so I stopped forcing it. Why shout into deaf ears?
+Even when I have shared pieces of my thoughts, I’ve often seen the blank look usually turning into a misunderstanding. People in general just aren't interested in deep thoughts. And so I stopped forcing it. Why shout into deaf ears?
 
 That night though, I realized something. If I don’t speak, if I don’t write, my truest self might die unheard.
 
