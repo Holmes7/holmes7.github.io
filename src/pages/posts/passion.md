@@ -1,54 +1,59 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: A realistic guide to following your "passion"
-date: 2024-11-22
+title: Passion
+date: 2025-10-10
 tags: ['thoughts']
-published: false
 ---
-For most of us, we spend a third of our life at work. That is a significant chunk of the limited gift of time we have. So it makes sense to make a good decision when choosing your career. This has been one of the major problems in my life that I have given a lot of time to think about and solved it to a great extent in my own life.
+Most people spend about **12% of their lives working**. That is a significant chunk of the limited gift of time we have here. If we also factor in the time people spend **worrying about work** or **being stressed about it**, it’s easy to see that the kind of work we do has a **strong impact on our entire life**.
 
-In this blog, I want to share my findings on this journey. I hope to give you a mindset to solve this problem in your own life as well. But you have to do the heavy lifting. You have to truly introspect, go deep within heart, think about the points I'm making. And most importantly, have the courage to act on it.
+So it makes sense to make a good decision when choosing your career. This has been one of the major problems in my life that I’ve spent a lot of time thinking about. In this blog, I want to share my findings from this journey, to help you make a **more informed decision** when trying to find your passion.
 
-## Thinning the herd
-This blog is NOT intended for the people who primarily only want to pursue wealth, status, fame in any way possible with no regards to the nature of the work they are doing. I simply don't resonate with this kind thinking and you won't find anything of value here.
+## Thinning the Herd
 
-This article will surely help you if:
-1. You don't want to simply trade 1/3rd of your life for a paycheck .
-2. You don't want to curse at your job everyday, dread mondays and live weekend to weekend, vacation to vacation.
+This blog is **not** for people whose primary goal is to chase **wealth, status, or fame** at any cost, without caring about the nature of the work itself. I simply don’t resonate with that way of thinking, and if that’s your mindset, you probably won’t find much value here.
 
+This is a very **opinionated** article, and I don’t intend to cater to the majority.
 
 ## Redefining Passion
-I hate the word "Passion"
 
-Why? Because it's definition is so diluted these days, everyone has their own version. The movies asking us to follow our passions, never define the word correctly and people make some impossible expectations out of it. They think if one finds his passion, he'll euphoric every second he's working. 
+You know, I truly **hate the word _passion_**.
 
-This is a pipe dream. 
+Why? Because its meaning has become so **diluted** that everyone seems to have their own version.
 
-Let's try "the thing that you are excited to work on". The requirement isn't for you to enjoy each and every second of working on your craft, that's impossible. You just need to be excited about working on it. And I truly believe this is more than enough to have great fulfilment at work.
+I remember watching _3 Idiots_ (a Bollywood movie) when I was a kid. While it did a great job of inspiring a generation to follow their passions in a positive way, I don’t think it did a very good job of actually **defining what passion means**. And I keep seeing this same issue again and again among people who strongly advocate for “following your passion.”
+
+Because of this, I’ve seen people build **unrealistic expectations** around that word. They start believing that once they find their passion, they’ll **enjoy every single second** of their work. They go searching for something that feels like that, and unsurprisingly, never find it. Because it **does not exist**.
+
+That’s a **pipe dream**.
+
+So let me try to redefine what we’re actually looking for when choosing a career.
+
+How about thinking of it as **something you’re genuinely excited to work on**? The goal isn’t to enjoy every minute of it — that’s impossible. You just need to feel **excited about doing it** most of the time. And I truly believe that’s more than enough to bring **real fulfillment** at work.
+
+So if doing something doesn’t spark even a bit of excitement in you, I think that’s a pretty good sign that **it’s probably not for you**.
+
+## Reason
+
+This is something very common with students preparing for **IAS, IIT, or any big competitive exam**. They **hate every bit of it**, yet somehow they keep going, powered by a **strong reason**. Maybe it’s family expectations, heartbreak, or a burning urge to prove something to the world. The reasons differ, but the story’s the same: that **emotional fire** becomes the fuel that helps them **push through all the pain and struggle**.
+
+While these emotional drivers can provide short-term motivation, in my opinion, this approach is **not sustainable**. A career lasts for decades, and constantly forcing yourself through something you dislike only **amplifies stress over time**.
+
+When you’re doing work you genuinely enjoy, you don’t need to keep reminding yourself **why** you’re doing it. The work itself pulls you in.
+
+So here’s a key indicator: if you constantly have to **justify** why you’re doing something, it’s probably **not your passion**.
 
 ## Money
-"Passion won't pay your bills" is a popular argument against following your passion. If you can't make money out of your work then it's just a hobby. And I agree with this. But what I don't agree with is people using this argument as if following your passion directly means you won't be making enough money. That's just dumb.
 
-Money vs Passion is a tradeoff. And you need to do some research to find the right balance for yourself. How much money is enough for you? If you want to become a millionaire by 30, you directly eliminate a lot of career options. On the other hand, if you go too low on the money, now you have a lot of carrer options to choose from but you won't be able to sustain it long term as you sacrificed on the money a little too much.
+“**Passion won’t pay your bills**.” That’s the usual argument against following your passion, and honestly, I agree to an extent.
+If your work doesn’t earn you enough to live, it’s just a **hobby**.
 
-Also keep in mind that when researching how much money a certain career choice makes, don't look at the average numbers. You are choosing what you love to do, obviously you'll be well above average in the field. Have some confidence.
+But what I don’t agree with is the assumption that following your passion automatically means you’ll be broke. That’s simply not true.
 
-I didn't choose to go the higher studies route as I couldn't come up with a good plan for the money side of things. But also during my college placements, I did not apply to any role other than software engineer even if they were giving very high packages. Because I am satisfied with the money in software.
+Money versus passion is a **tradeoff**, and you need to find the right balance for yourself. Ask yourself: **How much money is enough for you?** If your goal is to become a millionaire by 30, you’ll naturally rule out many options. But if you go too far in the other direction and ignore money completely, you’ll struggle to sustain your passion long term. The lack of money will eventually eat you up from the inside.
 
-## Position in Society 
-I think this is by far the biggest contributor in people not pursuing work that they love. I understand that it is our natural instinct to climb the societal heirarchy, but sacrificing enjoyable work is too big of a price to pay in the long term. I'd suggest to try and detach your emotions from this as much as possible
+Also, when you research salaries, **don’t just look at averages**. If you truly love what you do, chances are you’ll be **above average** in that field. Have some confidence.
 
-## Transitioning with small steps
-You don't need to resign from the current stream of income to pursue your passion. There's this chess channel I have been watching since I was 16. He now is quite big but back then he was a small channel. 
+## What’s Next
 
-### 
-I have a beautiful dev environment catered to my specific needs on my personal laptop and recently I wanted to use the same on my new work laptop. But due to additional security in the work laptop, I ran into some really frustrating issues. This was a very niche problem and very little help was available on the internet. I researched, read each line of the error log, trying to find some hack around the issue. 
-After 7-8 days of frustrating struggle, I finally found a workaround and looking at everything finally work seamlessly was so satisfying. 
-Now this does not fit into the
-
-money
-child
-activity in which you are so engrossed you don't have to remind yourself why you are doing it
-Strengths - don't enjoy talking to people, not good at understanding them, alone
-money - above average.
-small steps - me choosing jee over neet, agadmator moving to chess
+This is just **Part 1** of a multi-part series.
+I have more ideas on this topic to share in upcoming posts.
