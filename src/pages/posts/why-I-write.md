@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Why I write"
 date: 2025-09-17
 description: why I write
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 One night I dreamed I was dead. 
 

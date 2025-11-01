@@ -5,6 +5,38 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 <BaseLayout>
     <section class="mx-auto p-5 max-w-3xl whitespace-pre-line">
-        <PostList tag="thoughts"/>
+        <div class="mb-6 flex gap-3">
+            <button id="all-btn" class="px-3 py-1 rounded bg-gray-800 text-gray-100" data-target="all">All</button>
+            <button id="poetry-btn" class="px-3 py-1 rounded bg-gray-800 text-gray-100" data-target="poetry">Poetry</button>
+            <button id="memoirs-btn" class="px-3 py-1 rounded bg-gray-800 text-gray-100" data-target="memoirs">Memoirs</button>
+        </div>
+
+        <div id="posts-all">
+            <PostList tag="thoughts"/>
+        </div>
+        <div id="posts-poetry" style="display:none">
+            <PostList tag="poetry" />
+        </div>
+        <div id="posts-memoirs" style="display:none">
+            <PostList tag="memoir" />
+        </div>
+
+        <script>
+            // Simple client-side toggling for category buttons
+            const buttons = document.querySelectorAll('#all-btn, #poetry-btn, #memoirs-btn');
+            buttons.forEach((el) => {
+                const btn = el instanceof HTMLButtonElement ? el : null;
+                if (!btn) return;
+                btn.addEventListener('click', () => {
+                    const target = btn.dataset?.target ?? 'all';
+                    const all = document.getElementById('posts-all');
+                    const poetry = document.getElementById('posts-poetry');
+                    const memoirs = document.getElementById('posts-memoirs');
+                    if (all) all.style.display = target === 'all' ? '' : 'none';
+                    if (poetry) poetry.style.display = target === 'poetry' ? '' : 'none';
+                    if (memoirs) memoirs.style.display = target === 'memoirs' ? '' : 'none';
+                });
+            });
+        </script>
     </section>
 </BaseLayout> 

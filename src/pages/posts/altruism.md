@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Altruism"
 date: 2025-02-11
 description: A short piece of thought I explored when I observed just how much people glorify helping others
-tags: ['thoughts']
+tags: ['thoughts', 'poetry']
 ---
 I helped them.
 But did I really help them?

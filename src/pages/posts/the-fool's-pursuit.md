@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "The Fool's Pursuit"
 date: 2025-05-06
 description: The dilemma eating me up from inside
-tags: ['thoughts']
+tags: ['thoughts', 'poetry']
 ---
 
 There are many kinds of fools in this world

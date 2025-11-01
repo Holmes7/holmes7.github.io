@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "The Climb"
 date: 2025-06-12
 description: Having lost the ability to enjoy some of the "childish" things, I realise what I have missed
-tags: ['thoughts']
+tags: ['thoughts', 'poetry']
 ---
 
 I used to slip through secret doors,

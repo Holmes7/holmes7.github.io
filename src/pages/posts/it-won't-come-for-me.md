@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "It Won't Come For Me"
 date: 2025-05-18
 description: A piece inspired by the foolish men of this world
-tags: ['thoughts']
+tags: ['thoughts', 'poetry']
 ---
 
 “It won’t come for me,” he said.

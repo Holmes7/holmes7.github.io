@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Overthinking"
 date: 2025-05-29
 description: Overthinking - my strongest weapon
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 And once again, I’m back with another crazy, radical thought.
 

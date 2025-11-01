@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "I am Beautiful"
 date: 2025-09-10
 description: A poem on mankind’s deepest denial that ugliness belongs only to others
-tags: ['thoughts']
+tags: ['thoughts', 'poetry']
 ---
 I am beautiful, I say it plain,
 I burn bright and keep my name

@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Goodbye, Zettelkasten"
 date: 2025-07-18
 description: A word of caution for warriors trying to challenge the mightly zettelkasten
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 
 Oh man, the amount of time I’ve wasted on this bullshit. And my sanity!

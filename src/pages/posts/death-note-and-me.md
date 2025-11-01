@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Death Note and Me"
 date: 2025-05-10
 description: The anime closest to my heart
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 I was planning to publish this blog next year on the 10-year anniversary—but man, what if I die by then? I don't want to die before telling this story :)
 

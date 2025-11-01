@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Intro"
 date: 2023-04-30
 description: A short piece of thought I explored when I observed just how much people glorify helping others
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 
 Welcome to my thoughts.

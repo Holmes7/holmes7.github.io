@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Reze"
 date: 2025-10-04
 description: The cynical man transforms for a while
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 
 **Please watch Chainsaw Man: The Reze Arc, or else none of this will make sense. Spoilers Ahead**

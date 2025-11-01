@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "The Cost of Non Conformity"
 date: 2025-04-17
 description: Reflecting on the problems with one of my most useful traits
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 
 > Most people are other people. Their thoughts are someone else's opinions, their lives mimicry, their passions a quotation - Oscar Wilde
