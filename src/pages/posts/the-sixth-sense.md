@@ -6,7 +6,7 @@ description: Gojo's six eyes ffs
 tags: ['thoughts', 'memoir']
 ---
 
-So, I recently stumbled upon this beautiful [reel](https://www.instagram.com/p/DQEcRyYD5fz/) on Instagram.  
+So, I recently stumbled upon this beautiful [reel](https://www.instagram.com/p/DQEcRyYD5fz/) on Instagram.
 In the comments, someone asked a simple yet striking question:
 
 > Still wondering why she didn't ask for his name.
@@ -24,9 +24,9 @@ I remembered watching season three of _Oregairu_ as it aired. Back then, it had 
 
 That show, much like Dostoevsky’s writing, was never just what it seemed. Every line, every look, every silence carried a weight of meaning beneath it. A beauty that would lose its charm if presented literally.
 
-But after reading those essays, I often felt... defeated.  
-How could people see these hidden layers so clearly while I saw only the surface?  
-Why was I blind to what was right there between the lines?  
+But after reading those essays, I often felt... defeated.
+How could people see these hidden layers so clearly while I saw only the surface?
+Why was I blind to what was right there between the lines?
 I used to wonder if I’d ever develop that sixth sense, the ability to feel the invisible, to understand what isn’t said.
 
 Looking back, I think I have improved quite a lot. Now, I'm not saying I see anything and everything. Like I remember watching "The Menu" a couple years back and I was just as clueless as anyone else, had to read explanations for that as well. But I am not completely blind anymore.
