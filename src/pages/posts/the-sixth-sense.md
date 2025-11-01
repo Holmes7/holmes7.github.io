@@ -35,4 +35,4 @@ So, I want to say this to the version of me who felt that way, and maybe to anyo
 
 You’ll get there.
 
-Keep reading, keep observing, keep letting others’ insights guide you. Slowly, your brain will start forming patterns and one day, you’ll realize, you’ve learned to read not just the story, but the soul. To understand the philosophy that hides beneath what’s said. That you have grown the sixth sense after all.
+Keep reading, keep observing, keep letting others’ insights guide you. Slowly, your brain will start forming patterns and one day, you’ll realize, you’ve learned to read not just the story, but the soul; to understand the philosophy that hides beneath what’s said. That you have grown the sixth sense after all.
