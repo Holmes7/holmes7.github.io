@@ -6,7 +6,7 @@ description: Gojo's six eyes ffs
 tags: ['thoughts', 'memoir']
 ---
 
-So, I recently stumbled upon this beautiful [reel](www.instagram.com/p/DQEcRyYD5fz/) on Instagram.  
+So, I recently stumbled upon this beautiful [reel](https://www.instagram.com/p/DQEcRyYD5fz/) on Instagram.  
 In the comments, someone asked a simple yet striking question:
 
 > Still wondering why she didn't ask for his name.
