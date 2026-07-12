@@ -3,12 +3,12 @@ layout: ../../layouts/PostLayout.astro
 title: "Confidence"
 date: 2026-07-13
 description: My experiences with people's ability to read people
-tags: ['thoughts']
+tags: ['thoughts', 'memoir']
 ---
 
 So I'm back. It's been a while. Not that anyone would have noticed, I guess. :)
 
-I actually planned to write another blog in November, on the one-year anniversary of my *One Punch Man* blog, but life happened. And here we are, nine months since my last post.
+I actually planned to write another blog in November, on the one-year anniversary of my **One Punch Man** blog, but life happened. And here we are, nine months since my last post.
 
 Time really does fly, doesn't it?
 
@@ -84,7 +84,7 @@ I still remind him of that game whenever I get the chance.
 ## So What's Going On?
 
 Why do so many people overestimate their ability to understand other people?
-
+The answer is **feedback**.
 Think back to the questions I asked at the beginning.
 
 ### Math
